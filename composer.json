@@ -1,0 +1,21 @@
+{
+    "name": "arekaev/tinkoff",
+    "description": "Tbank API SDK",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arekaev Aleksei",
+            "email": "php.nginx@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2",
+        "ext-json": "*",
+        "guzzlehttp/guzzle": "^7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Arekaev\\Tinkoff\\": "src/"
+        }
+    }
+}
