@@ -1,5 +1,5 @@
 {
-    "name": "arekaev/tinkoff",
+    "name": "arekaev/tbank-payment",
     "description": "Tbank API SDK",
     "license": "MIT",
     "authors": [
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Arekaev\\Tinkoff\\": "src/"
+            "Arekaev\\TbankPayment\\": "src/"
         }
     }
 }
