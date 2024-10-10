@@ -59,7 +59,7 @@ class Init extends Value
 
     /**
      * Идентификатор покупателя в системе продавца. Передается вместе с параметром CardId.
-     * {@link https://www.TbankPayment.ru/kassa/develop/api/autopayments/getcardlist-description/ См. метод GetCardList}
+     * {@link https://www.tbank.ru/kassa/develop/api/autopayments/getcardlist-description/ См. метод GetCardList}
      *
      * Также необходим для сохранения карт на платежной форме (платежи в один клик).
      *
